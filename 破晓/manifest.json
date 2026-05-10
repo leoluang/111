@@ -1,0 +1,22 @@
+{
+  "name": "ZEXI 破晓情绪充能舱",
+  "short_name": "ZEXI 破晓",
+  "description": "专为职场青年设计的桌面情绪疗愈与效率副屏",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#151517",
+  "theme_color": "#151517",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0iIzE1MTUxNyIvPjxwYXRoIGQ9Ik0yNTYgMTAwaDEwMHY1MGgtNTBsLTUwIDUwaC01MHptMCAyNTBoLTEwMHYtNTBoNTBsNTAtNTBoNTB6IiBmaWxsPSIjZDk0NmVmIi8+PC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0iIzE1MTUxNyIvPjxwYXRoIGQ9Ik0yNTYgMTAwaDEwMHY1MGgtNTBsLTUwIDUwaC01MHptMCAyNTBoLTEwMHYtNTBoNTBsNTAtNTBoNTB6IiBmaWxsPSIjZDk0NmVmIi8+PC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
